@@ -1,4 +1,4 @@
 # pcodes
 This is my first repository.
 <br>
-Author - Pratham Gupta
+Author - Pratham Gupta(codes)
